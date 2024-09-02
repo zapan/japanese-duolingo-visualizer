@@ -78,5 +78,5 @@ class APIClient:
 
         summary_url = f"{self.base_url}/2017-06-30/users/{user_response_data['id']}/xp_summaries?startDate=1970-01-01"
         summary_response_data = self.request(summary_url, token).json()
-        print summary_url
+        print (summary_url)
         return (user_response_data, summary_response_data)
