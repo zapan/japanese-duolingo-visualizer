@@ -960,9 +960,15 @@
     "xp_today": 1147
   },
   "2024/11/23": {
-    "number_of_sessions": 289,
+    "number_of_sessions": 290,
     "session_time": 7860,
     "streak": 161,
-    "xp_today": 3600
+    "xp_today": 3608
+  },
+  "2024/11/24": {
+    "number_of_sessions": 20,
+    "session_time": 3701,
+    "streak": 162,
+    "xp_today": 1076
   }
 }
