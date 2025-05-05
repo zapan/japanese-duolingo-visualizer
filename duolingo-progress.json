@@ -1932,9 +1932,15 @@
     "xp_today": 30
   },
   "2025/05/04": {
-    "number_of_sessions": 517,
-    "session_time": 6654,
+    "number_of_sessions": 560,
+    "session_time": 7329,
     "streak": 323,
-    "xp_today": 5170
+    "xp_today": 5610
+  },
+  "2025/05/05": {
+    "number_of_sessions": 737,
+    "session_time": 9591,
+    "streak": 324,
+    "xp_today": 7370
   }
 }
