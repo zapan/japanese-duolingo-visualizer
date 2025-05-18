@@ -2010,9 +2010,15 @@
     "xp_today": 2100
   },
   "2025/05/17": {
-    "number_of_sessions": 440,
-    "session_time": 5705,
+    "number_of_sessions": 480,
+    "session_time": 6206,
     "streak": 336,
-    "xp_today": 4400
+    "xp_today": 4800
+  },
+  "2025/05/18": {
+    "number_of_sessions": 686,
+    "session_time": 8944,
+    "streak": 337,
+    "xp_today": 6860
   }
 }
