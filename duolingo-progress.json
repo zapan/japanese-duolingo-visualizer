@@ -2016,9 +2016,15 @@
     "xp_today": 4800
   },
   "2025/05/18": {
-    "number_of_sessions": 686,
-    "session_time": 8944,
+    "number_of_sessions": 690,
+    "session_time": 8997,
     "streak": 337,
-    "xp_today": 6860
+    "xp_today": 6900
+  },
+  "2025/05/19": {
+    "number_of_sessions": 535,
+    "session_time": 6946,
+    "streak": 338,
+    "xp_today": 5350
   }
 }
