@@ -2022,9 +2022,15 @@
     "xp_today": 6900
   },
   "2025/05/19": {
-    "number_of_sessions": 535,
-    "session_time": 6946,
+    "number_of_sessions": 684,
+    "session_time": 8836,
     "streak": 338,
-    "xp_today": 5350
+    "xp_today": 6838
+  },
+  "2025/05/20": {
+    "number_of_sessions": 910,
+    "session_time": 11869,
+    "streak": 339,
+    "xp_today": 9100
   }
 }
