@@ -2058,9 +2058,15 @@
     "xp_today": 6350
   },
   "2025/05/25": {
-    "number_of_sessions": 691,
-    "session_time": 8965,
+    "number_of_sessions": 1206,
+    "session_time": 15691,
     "streak": 344,
-    "xp_today": 6910
+    "xp_today": 12060
+  },
+  "2025/05/26": {
+    "number_of_sessions": 427,
+    "session_time": 5539,
+    "streak": 345,
+    "xp_today": 4290
   }
 }
