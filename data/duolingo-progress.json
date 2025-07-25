@@ -2422,5 +2422,11 @@
     "session_time": 68,
     "streak": 404,
     "xp_today": 50
+  },
+  "2025/07/25": {
+    "number_of_sessions": 8,
+    "session_time": 100,
+    "streak": 405,
+    "xp_today": 80
   }
 }
