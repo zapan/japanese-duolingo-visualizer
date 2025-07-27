@@ -2434,5 +2434,11 @@
     "session_time": 128,
     "streak": 406,
     "xp_today": 100
+  },
+  "2025/07/27": {
+    "number_of_sessions": 3,
+    "session_time": 39,
+    "streak": 407,
+    "xp_today": 30
   }
 }
