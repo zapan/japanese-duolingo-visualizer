@@ -2632,5 +2632,17 @@
     "session_time": 70,
     "streak": 439,
     "xp_today": 50
+  },
+  "2025/08/29": {
+    "number_of_sessions": 8,
+    "session_time": 101,
+    "streak": 440,
+    "xp_today": 80
+  },
+  "2025/08/30": {
+    "number_of_sessions": 11,
+    "session_time": 143,
+    "streak": 441,
+    "xp_today": 110
   }
 }
